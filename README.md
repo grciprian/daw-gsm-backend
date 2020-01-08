@@ -3,6 +3,8 @@
 ## Description :floppy_disk:
 
   *GSM* reprezinta un proof of concept pentru o platforma prin care un magazin care repara diverse deviceuri isi poate administra *employees*, *customers* si interactiunea dintre acestia pe baza unor *gadgets* si a unor *contracts*.  
+  
+[## Some screenshots :camera:](https://i.imgur.com/60OuIeI.png)
 
 ## How To :bulb:
 
