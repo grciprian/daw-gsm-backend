@@ -22,6 +22,7 @@
 
 ! Nu am tratat validari pe frontend; foarte putin in backend !  
 O parola valida trebuie sa contina tot felul de tipuri de caractere, astfel ca una valida ar fi 123qweQWE!@#  
+Campurile de parola le-am lasat intentionat in clar.  
 Pentru orice neintelegere, nu evita sa ma contactezi.  
 
 The API server runs on https://localhost:44373
